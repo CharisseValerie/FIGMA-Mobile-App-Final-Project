@@ -3,6 +3,12 @@ Ecoguard is a comprehensive UI Android application developed using Flutter and D
 This application empowers users to remotely oversee and manage critical aspects of their poultry farm operations, enhancing efficiency and productivity. 
 By Providing real-time data and automated controls, Ecoguard ensures optimal conditions for poultry health and growth.
 
+## Members
+* Concevido, Kyle Howard P.
+* Dela Cruz, Charisse Valerie M.
+* Marquinez, Rinche C.
+* Mente, John Vhhenedict B.
+
 ## YouTube Link:
  * Fimga UI design presentation: https://youtu.be/EqZqnbmbqhY?si=kLRrqA4mhoqnws4F
 ## UI Design using Figma
@@ -18,10 +24,5 @@ By Providing real-time data and automated controls, Ecoguard ensures optimal con
 ![Screenshot 2024-07-25 214936](https://github.com/user-attachments/assets/dc0c861f-9c7b-4bbc-8374-2a0c024250f0)
 ![Screenshot 2024-07-25 214955](https://github.com/user-attachments/assets/50308457-58a8-4075-b11d-a076d91f9221)
 
-## Members
-* Concevido, Kyle Howard P.
-* Dela Cruz, Charisse Valerie M.
-* Marquinez, Rinche C.
-* Mente, John Vhhenedict B.
 
 
